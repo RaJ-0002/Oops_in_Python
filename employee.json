@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Aarav",
+        "DOB": "1995-05-15",
+        "Height": 172,
+        "City": "Mumbai",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "Aditi",
+        "DOB": "1990-08-20",
+        "Height": 160,
+        "City": "Delhi",
+        "State": "Delhi"
+    },
+    {
+        "Name": "Aishwarya",
+        "DOB": "1988-03-10",
+        "Height": 165,
+        "City": "Bengaluru",
+        "State": "Karnataka"
+    },
+    {
+        "Name": "Akash",
+        "DOB": "1992-12-05",
+        "Height": 178,
+        "City": "Chennai",
+        "State": "Tamil Nadu"
+    },
+    {
+        "Name": "Arjun",
+        "DOB": "1991-11-08",
+        "Height": 180,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    }
+]
